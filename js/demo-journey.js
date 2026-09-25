@@ -57,7 +57,7 @@
       apply: function () {
         if (heroLede) {
           heroLede.textContent =
-            'Residential electrical, panels, and wiring. Across Rancho Cucamonga and the Inland Empire. Jason looks at the job first and puts the price in writing.';
+            'Residential electrical, panels, and wiring in Rancho Cucamonga. Jason looks at the job first and puts the price in writing.';
         }
       }
     },
